@@ -1,8 +1,9 @@
 # ReadMeGenerator
 
+![License](https://img.shields.io/badge/License-ISC-blue.svg)
+
 ![Demo](https://github.com/sbhwang23/ReadMeGenerator/blob/master/ReadMe.gif)
 
-![License](https://img.shields.io/badge/License-ISC-blue.svg)
 
   Table of Contents
   1. [About](#about)
