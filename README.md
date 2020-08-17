@@ -15,7 +15,7 @@
   This is a command-line application that generates a README.md from the user’s input. 
 
   ## Installing
-  Install the Inquirer package
+  npm install inquirer
 
   ## Usage
   Run file in terminal using node and follow the prompts to create ReadMe
