@@ -13,16 +13,16 @@ function generateMarkdown(data) {
 
   return `# ${data.title}
 
-  [![License](https://img.shields.io/badge/License-${ badge }.svg)]
+  ![License](https://img.shields.io/badge/License-${ badge }.svg)
 
   Table of Contents
-  1. [About](#description)
-  2. [Installing](#installation)
+  1. [About](#about)
+  2. [Installing](#installing)
   3. [Usage](#usage)
   4. [License](#license)
   5. [Contributing](#contributing)
-  6. [Tests](#test)
-  7. [Contact Information](#email)
+  6. [Tests](#Tests)
+  7. [Contact Information](#Questions)
 
   ## About
   ${data.description}
@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.contributing}
 
-  ## Running the tests
+  ## Tests
   ${data.test}
 
   ## Questions
