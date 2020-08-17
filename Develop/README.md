@@ -1,4 +1,5 @@
 # Sample ReadMe Generator 
+Sample ReadMe Generator using the application.
 
   ![License](https://img.shields.io/badge/License-ISC-blue.svg)
 
